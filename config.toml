@@ -3,6 +3,7 @@ languageCode = 'en-us'
 theme = "barks"
 title = 'Abir Bouraffa'
 author = "Abir Bouraffa"
+publishDir = "docs"
 Copyright = "© Abir Bouraffa 2022 - <a href='/abirbouraffa/imprint'>Imprint</a> - Theme by Timothy Gebhard - Made with <a href='https://gohugo.io/'>Hugo</a>"
 
 [[menu.main]]
