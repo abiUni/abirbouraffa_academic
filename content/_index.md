@@ -2,7 +2,7 @@
 title: "Abir Bouraffa"
 date: 2022-01-20T15:09:05+01:00
 layout: landing_page
-image: https://raw.githubusercontent.com/abiUni/abirbouraffa_academic/resources/images/profile_picture.jpg
+image: https://raw.githubusercontent.com/abiUni/abirbouraffa_academic/master/resources/_gen/images/profile_picture.jpg
 ---
 
 Hi, I'm Abir!
