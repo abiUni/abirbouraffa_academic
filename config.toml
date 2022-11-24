@@ -1,4 +1,5 @@
-baseURL = 'https://abiuni.github.io/abirbouraffa_academic'
+url = 'https://abiuni.github.io'
+baseURL='/abirbouraffa_academic'
 languageCode = 'en-us'
 theme = "barks"
 title = 'Abir Bouraffa'
