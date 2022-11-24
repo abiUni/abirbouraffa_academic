@@ -1,0 +1,69 @@
+baseURL = 'https://abiuni.github.io/abirbouraffa_academic'
+languageCode = 'en-us'
+theme = "barks"
+title = 'Abir Bouraffa'
+author = "Abir Bouraffa"
+Copyright = "© Abir Bouraffa 2022 - <a href='/abirbouraffa/imprint'>Imprint</a> - Theme by Timothy Gebhard - Made with <a href='https://gohugo.io/'>Hugo</a>"
+
+[[menu.main]]
+name = "Publications"
+weight = 1
+identifier = "publications"
+url = "/publications"
+
+[[menu.main]]
+name = "Volunteering"
+weight = 2
+identifier = "volunteering"
+url = "/volunteering"
+
+[[menu.main]]
+name = "Imprint"
+weight = 3
+hidden= true
+identifier = "imprint"
+url = "/imprint"
+
+[params.navigation]
+    show_navigation = true
+
+[params.footer]
+    show_footer = true
+
+[params.typography]
+    title_font = "Bree Serif"
+    body_font = "Source Sans Pro"
+
+[params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#60c17d"
+
+[params.social]
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/abiUni"
+        weight = 1
+    [params.social.orcid]
+        name = "orcid"
+        class = "ai ai-orcid"
+        url = "https://orcid.org/0000-0002-0980-625X"
+        weight = 2
+    [params.social.linkedin]
+        name = "LinkedIn"
+        class = "fab fa-linkedin"
+        url = "https://de.linkedin.com/in/abir-bouraffa-38881b137"
+        weight = 3
+    [params.social.twitter]
+        name = "LinkedIn"
+        class = "fab fa-twitter"
+        url = "https://twitter.com/ABouraffa"
+        weight = 4
+    [params.social.medium]
+        name = "Medium"
+        class = "fab fa-medium"
+        url = "https://abirbouraffa.medium.com/"
+        weight = 5
+
